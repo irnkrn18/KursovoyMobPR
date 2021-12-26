@@ -1,0 +1,26 @@
+C:\Users\Art12\OneDrive\Рабочий стол\КурНемойМобПрог\KursovoyMobProg\KursovoyMobProg\bin\Debug\KursovoyMobProg.exe.config
+C:\Users\Art12\OneDrive\Рабочий стол\КурНемойМобПрог\KursovoyMobProg\KursovoyMobProg\bin\Debug\KursovoyMobProg.exe
+C:\Users\Art12\OneDrive\Рабочий стол\КурНемойМобПрог\KursovoyMobProg\KursovoyMobProg\bin\Debug\KursovoyMobProg.pdb
+C:\Users\Art12\OneDrive\Рабочий стол\КурНемойМобПрог\KursovoyMobProg\KursovoyMobProg\bin\Debug\StoreLibrary.dll
+C:\Users\Art12\OneDrive\Рабочий стол\КурНемойМобПрог\KursovoyMobProg\KursovoyMobProg\bin\Debug\StoreLibrary.pdb
+C:\Users\Art12\OneDrive\Рабочий стол\КурНемойМобПрог\KursovoyMobProg\KursovoyMobProg\obj\Debug\KursovoyMobProg.csprojAssemblyReference.cache
+C:\Users\Art12\OneDrive\Рабочий стол\КурНемойМобПрог\KursovoyMobProg\KursovoyMobProg\obj\Debug\KursovoyMobProg.Market.resources
+C:\Users\Art12\OneDrive\Рабочий стол\КурНемойМобПрог\KursovoyMobProg\KursovoyMobProg\obj\Debug\KursovoyMobProg.Properties.Resources.resources
+C:\Users\Art12\OneDrive\Рабочий стол\КурНемойМобПрог\KursovoyMobProg\KursovoyMobProg\obj\Debug\KursovoyMobProg.csproj.GenerateResource.cache
+C:\Users\Art12\OneDrive\Рабочий стол\КурНемойМобПрог\KursovoyMobProg\KursovoyMobProg\obj\Debug\KursovoyMobProg.csproj.CoreCompileInputs.cache
+C:\Users\Art12\OneDrive\Рабочий стол\КурНемойМобПрог\KursovoyMobProg\KursovoyMobProg\obj\Debug\KursovoyMobProg.csproj.CopyComplete
+C:\Users\Art12\OneDrive\Рабочий стол\КурНемойМобПрог\KursovoyMobProg\KursovoyMobProg\obj\Debug\KursovoyMobProg.exe
+C:\Users\Art12\OneDrive\Рабочий стол\КурНемойМобПрог\KursovoyMobProg\KursovoyMobProg\obj\Debug\KursovoyMobProg.pdb
+C:\Users\user\Desktop\КурНемойМобПрог\KursovoyMobProg\KursovoyMobProg\obj\Debug\KursovoyMobProg.csprojAssemblyReference.cache
+C:\Users\user\Desktop\КурНемойМобПрог\KursovoyMobProg\KursovoyMobProg\obj\Debug\KursovoyMobProg.Market.resources
+C:\Users\user\Desktop\КурНемойМобПрог\KursovoyMobProg\KursovoyMobProg\obj\Debug\KursovoyMobProg.Properties.Resources.resources
+C:\Users\user\Desktop\КурНемойМобПрог\KursovoyMobProg\KursovoyMobProg\obj\Debug\KursovoyMobProg.csproj.GenerateResource.cache
+C:\Users\user\Desktop\КурНемойМобПрог\KursovoyMobProg\KursovoyMobProg\obj\Debug\KursovoyMobProg.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\КурНемойМобПрог\KursovoyMobProg\KursovoyMobProg\obj\Debug\KursovoyMobProg.exe
+C:\Users\user\Desktop\КурНемойМобПрог\KursovoyMobProg\KursovoyMobProg\obj\Debug\KursovoyMobProg.pdb
+C:\Users\user\Desktop\КурНемойМобПрог\KursovoyMobProg\KursovoyMobProg\bin\Debug\KursovoyMobProg.exe.config
+C:\Users\user\Desktop\КурНемойМобПрог\KursovoyMobProg\KursovoyMobProg\bin\Debug\KursovoyMobProg.exe
+C:\Users\user\Desktop\КурНемойМобПрог\KursovoyMobProg\KursovoyMobProg\bin\Debug\KursovoyMobProg.pdb
+C:\Users\user\Desktop\КурНемойМобПрог\KursovoyMobProg\KursovoyMobProg\bin\Debug\StoreLibrary.dll
+C:\Users\user\Desktop\КурНемойМобПрог\KursovoyMobProg\KursovoyMobProg\bin\Debug\StoreLibrary.pdb
+C:\Users\user\Desktop\КурНемойМобПрог\KursovoyMobProg\KursovoyMobProg\obj\Debug\KursovoyMobProg.csproj.CopyComplete

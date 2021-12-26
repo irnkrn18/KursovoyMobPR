@@ -1,0 +1,12 @@
+C:\Users\Art12\OneDrive\Рабочий стол\КурНемойМобПрог\KursovoyMobProg\StoreLibrary\bin\Debug\StoreLibrary.dll
+C:\Users\Art12\OneDrive\Рабочий стол\КурНемойМобПрог\KursovoyMobProg\StoreLibrary\bin\Debug\StoreLibrary.pdb
+C:\Users\Art12\OneDrive\Рабочий стол\КурНемойМобПрог\KursovoyMobProg\StoreLibrary\obj\Debug\StoreLibrary.csprojAssemblyReference.cache
+C:\Users\Art12\OneDrive\Рабочий стол\КурНемойМобПрог\KursovoyMobProg\StoreLibrary\obj\Debug\StoreLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Art12\OneDrive\Рабочий стол\КурНемойМобПрог\KursovoyMobProg\StoreLibrary\obj\Debug\StoreLibrary.dll
+C:\Users\Art12\OneDrive\Рабочий стол\КурНемойМобПрог\KursovoyMobProg\StoreLibrary\obj\Debug\StoreLibrary.pdb
+C:\Users\user\Desktop\КурНемойМобПрог\KursovoyMobProg\StoreLibrary\obj\Debug\StoreLibrary.csprojAssemblyReference.cache
+C:\Users\user\Desktop\КурНемойМобПрог\KursovoyMobProg\StoreLibrary\obj\Debug\StoreLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\КурНемойМобПрог\KursovoyMobProg\StoreLibrary\obj\Debug\StoreLibrary.dll
+C:\Users\user\Desktop\КурНемойМобПрог\KursovoyMobProg\StoreLibrary\obj\Debug\StoreLibrary.pdb
+C:\Users\user\Desktop\КурНемойМобПрог\KursovoyMobProg\StoreLibrary\bin\Debug\StoreLibrary.dll
+C:\Users\user\Desktop\КурНемойМобПрог\KursovoyMobProg\StoreLibrary\bin\Debug\StoreLibrary.pdb
